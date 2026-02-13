@@ -1,0 +1,11 @@
+baixar podcast, baixar o audio em mp3 e ele vai identificar quantas pessoas fala e identifacação de pessoa 1, pessoa 2 e pessoa 3
+
+
+IA O CODIGO JA FUNCIONA, QUERO LINHAS DE COMANDOS ONDE IDENTIFIQUE NO PODCAST, QUANTAS PESSOAS ESTÃO FALANDO E ME INFORMANDO QUEM ESTÁ FALANDOV A CADA MOMENTO.
+
+DOCUMENTAR TUDO QUE ESTOU FAZENDO
+
+O CODIGO QUE JÁ ESTA funcional, pedir para o gemini fazer um documento de visão 1.0
+e a cada modificficação pedir pro gemini adicionar o 1.1 por exemplo
+
+OBS: SEMPRE FAZER DOCUMENTAÇÃO.

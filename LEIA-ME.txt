@@ -1,0 +1,21 @@
+TRANSCRITOR DE ÁUDIO - BIBLIOTECA DO SENADO FEDERAL
+====================================================
+
+PASSO ÚNICO DE CONFIGURAÇÃO (FAZER 1 VEZ):
+  1. Clique duas vezes em "INSTALAR_BDSF.bat"
+  2. Aguarde ~10 minutos (requer internet na 1ª vez)
+  3. NÃO é necessário ser administrador
+
+USO DIÁRIO (SEM INTERNET):
+  1. Coloque áudios (.mp3, .wav) na pasta "audios"
+  2. Clique duas vezes em "TRANSCREVER_BDSF.bat"
+  3. Escolha a opção desejada no menu
+
+CARACTERÍSTICAS:
+  ✅ 100% offline após instalação inicial
+  ✅ Sem limites de tempo ou volume
+  ✅ Totalmente privado — nada vai para a nuvem
+  ✅ Adequado para documentos sensíveis da BDSF
+
+SUPORTE:
+  Biblioteca Digital do Senado Federal

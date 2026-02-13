@@ -1,0 +1,231 @@
+[0.0s -> 15.2s]  Lei nº 10.098, de 19 de dezembro de 2000, estabelece normas gerais e critérios básicos para promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências.
+[15.2s -> 21.2s]  o presidente da república. Faço saber que o Congresso Nacional decreta e eu sanciono a
+[21.2s -> 27.9s]  seguinte lei, capítulo primeiro, disposições gerais. Artigo primeiro, esta lei estabelece
+[27.9s -> 33.3s]  normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de
+[33.3s -> 39.2s]  deficiência ou com mobilidade reduzida, mediante a supressão de barreiras e de obstáculos nas
+[39.2s -> 44.8s]  vias e espaços públicos, no mobiliário urbano, na construção e reforma de edifícios e
+[44.8s -> 46.9s]  de Transporte e de Comunicação.
+[46.9s -> 52.5s]  Artigo 2. Para os fins desta Lei são estabelecidas as seguintes definições.
+[52.5s -> 58.2s]  Inciso 1. Acessibilidade, possibilidade e condição de alcance para utilização,
+[58.2s -> 63.2s]  com segurança e autonomia de espaços, mobiliários, equipamentos urbanos,
+[63.2s -> 68.4s]  edificações, transportes, informação e comunicação, inclusive seus sistemas e
+[68.4s -> 73.4s]  tecnologias, bem como de outros serviços e instalações abertos ao público,
+[73.4s -> 79.3s]  de uso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa
+[79.3s -> 82.3s]  com deficiência ou com mobilidade reduzida.
+[82.3s -> 83.5s]  Inciso 2.
+[83.5s -> 84.5s]  Barreiras.
+[84.5s -> 90.3s]  Qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social
+[90.3s -> 92.3s]  da pessoa, bem como gozo.
+[92.3s -> 97.5s]  A fruição e o exercício de seus direitos à acessibilidade, à liberdade de movimento
+[97.5s -> 103.2s]  e de expressão, a comunicação, ao acesso à informação, à compreensão, à circulação
+[103.2s -> 106.4s]  com segurança entre outros classificadas em
+[106.4s -> 112.5s]  Alínea A. Barreiras urbanísticas, as existentes nas vias e nos espaços públicos e privados
+[112.5s -> 115.5s]  abertos ao público ou de uso coletivo
+[115.5s -> 121.8s]  Alínea B. Barreiras arquitetônicas, as existentes nos edifícios públicos e privados
+[121.8s -> 125.5s]  Alínea C. Barreiras nos transportes, as existentes
+[125.5s -> 131.8s]  nos sistemas e meios de transportes, a linha D, barreiras nas comunicações e na informação,
+[131.8s -> 136.9s]  qualquer entrave ou obstáculo, atitude ou comportamento que dificulte ou impossibilite
+[136.9s -> 141.8s]  a expressão ou recebimento de mensagens e de informações por intermédio de sistemas
+[141.8s -> 144.8s]  de comunicação e de tecnologia da informação.
+[144.8s -> 150.2s]  Inciso 3. Pessoa com deficiência. Aquela que tem impedimento de longo prazo de
+[150.2s -> 157.2s]  natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras,
+[157.2s -> 162.5s]  pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com
+[162.5s -> 164.0s]  as demais pessoas.
+[164.0s -> 170.3s]  Inciso 4. Pessoa com mobilidade reduzida. Aquela que tenha, por qualquer motivo, dificuldade
+[170.3s -> 175.8s]  de movimentação, permanente ou temporária. Gerando redução efetiva da mobilidade,
+[175.8s -> 181.5s]  da flexibilidade, da coordenação motora ou da percepção, incluindo idoso gestante
+[181.5s -> 187.6s]  laquitante, pessoa com criança de colo e obeso, inciso quinto, acompanhante, aquele que
+[187.6s -> 192.5s]  acompanha a pessoa com deficiência, podendo ou não desempenhar as funções de atendente
+[192.5s -> 193.5s]  pessoal.
+[193.5s -> 199.6s]  Inciso sexto, elemento de urbanização, quaisquer componentes de obras de urbanização, tais
+[199.6s -> 205.1s]  como referentes à pavimentação, saneamento, encanamento para esgotos, distribuição
+[205.1s -> 211.3s]  de energia elétrica e de gás, iluminação pública, serviços de comunicação, abastecimento
+[211.3s -> 216.7s]  e distribuição de água, paisagismo e os que materializam as indicações do planejamento
+[216.7s -> 217.8s]  urbanístico.
+[217.8s -> 219.7s]  Inciso 7.
+[219.7s -> 225.6s]  Mobiliário urbano, conjunto de objetos existentes nas vias e nos espaços públicos, superpostos
+[225.6s -> 231.3s]  ou adicionados aos elementos de urbanização ou de edificação, de forma que sua modificação
+[231.3s -> 237.6s]  ou seu traslado não provoque alterações substanciais nesses elementos, tais como semáforos, postes
+[237.6s -> 243.8s]  de sinalização e similares, terminais e pontos de acesso coletivo as telecomunicações, fontes
+[243.8s -> 249.4s]  de água, lixeiras, todos, marquises, bancos, kiosques e quaisquer outros de natureza
+[249.4s -> 250.4s]  náloga.
+[250.4s -> 252.3s]  Inciso 8.
+[252.3s -> 255.2s]  Tecnologia assistiva ou ajuda técnica.
+[255.2s -> 262.6s]  equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que objetivem
+[262.6s -> 267.5s]  promover a funcionalidade, relacionada à atividade e a participação da pessoa com
+[267.5s -> 273.4s]  deficiência ou com mobilidade reduzida, visando a sua autonomia, independência, qualidade
+[273.4s -> 275.4s]  de vida e inclusão social.
+[275.4s -> 280.9s]  Em CISO 9, Comunicação, forma de interação dos cidadãos que abrange, entre outras
+[280.9s -> 287.3s]  opções às línguas, inclusive a língua brasileira de sinais-libras. A visualização de textos,
+[287.3s -> 293.2s]  o Braille, o sistema de sinalização ou de comunicação tátil, os caracteres ampliados,
+[293.2s -> 299.6s]  os dispositivos multimídia. Assim como a linguagem simples escrita e oral, os sistemas auditivos
+[299.6s -> 305.4s]  e os meios de voz digitalizados e os modos, meios e formatos aumentativos e alternativos
+[305.4s -> 310.6s]  de comunicação, incluindo as tecnologias da informação e das comunicações.
+[310.6s -> 316.3s]  Inciso 10 – Desen Universal – Concepção de produtos, ambientes, programas e serviços
+[316.3s -> 322.9s]  a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico,
+[322.9s -> 326.5s]  incluindo os recursos de tecnologia assistiva.
+[326.5s -> 333.4s]  Capítulo II – Dos elementos da urbanização Artigo III – O planejamento e a urbanização
+[333.4s -> 339.1s]  das vias públicas, dos parques e dos demais espaços de uso público deverão ser concebidos
+[339.1s -> 344.8s]  e executados de forma a torná-los acessíveis para todas as pessoas, inclusive para aquelas
+[344.8s -> 349.2s]  com deficiência ou com mobilidade reduzida, parágrafo único.
+[349.2s -> 355.2s]  O passeio público elemento obrigatório de urbanização e parte da via pública, normalmente
+[355.2s -> 360.4s]  segregado e em nível diferente, destina-se somente a circulação de pedestres e quando
+[360.4s -> 365.1s]  possível, a implantação de mobiliário urbano e de vegetação.
+[365.1s -> 368.6s]  Artigo 4 As vias públicas, os parques e os demais
+[368.6s -> 374.0s]  espaços de uso público existentes, assim como as respectivas instalações de serviços
+[374.0s -> 379.8s]  e mobiliários urbanos deverão ser adaptados, obedecendo-se ordem de prioridade que vise
+[379.8s -> 385.4s]  a maior eficiência das modificações, no sentido de promover mais ampla acessibilidade
+[385.4s -> 389.8s]  as pessoas portadoras de deficiência ou com mobilidade reduzida.
+[389.8s -> 391.1s]  Parágrafo único.
+[391.1s -> 396.8s]  No mínimo 5% de cada brinquedo e equipamento de lazer existentes nos locais referidos no
+[396.8s -> 403.0s]  cápute devem ser adaptados e identificados, tanto quanto tecnicamente possível para possibilitar
+[403.0s -> 409.4s]  sua utilização por pessoas com deficiência, inclusive visual ou com mobilidade reduzida.
+[409.4s -> 410.4s]  Artigo 5.
+[410.4s -> 416.2s]  O projeto e o traçado dos elementos de urbanização públicos e privados de uso comunitário,
+[416.2s -> 420.1s]  nesses compreendidos os itinerários e as passagens de pedestres,
+[420.1s -> 424.6s]  os percursos de entrada e de saída de veículos das escadas e rampas,
+[424.6s -> 429.8s]  deverão observar os parâmetros estabelecidos pelas normas técnicas de acessibilidade
+[429.8s -> 434.7s]  da Associação Brasileira de Normas Técnicas, ABNT, Artigo 6.
+[434.7s -> 438.7s]  Os banheiros de uso público existentes ou a construir em parques,
+[438.7s -> 444.6s]  Praças, jardins e espaços livres públicos deverão ser acessíveis e dispor, pelo menos,
+[444.6s -> 450.5s]  de um sanitário e um lavatório que atendam as especificações das normas técnicas da ABNT.
+[450.5s -> 458.0s]  Parágrafo primeiro, os eventos organizados em espaços públicos e privados em que haja instalação de banheiros químicos
+[458.0s -> 464.0s]  deverão contar com unidades acessíveis a pessoas com deficiência ou com mobilidade reduzida.
+[464.0s -> 470.7s]  § 2º O número mínimo de banheiros químicos acessíveis corresponderá a 10% do total,
+[470.7s -> 477.7s]  garantindo-se pelo menos uma unidade acessível caso a aplicação do percentual resulte em fração inferior a 1.
+[477.7s -> 485.1s]  Art. 7. Em todas as áreas de estacionamento de veículos, localizadas em vias ou em espaços públicos,
+[485.1s -> 490.2s]  deverão ser reservadas vagas próximas dos acessos de circulação de pedestres,
+[490.2s -> 497.8s]  devidamente sinalizadas, para veículos que transportem pessoas portadoras de deficiência com dificuldade de locomoção.
+[497.8s -> 499.2s]  Parágrafo único.
+[499.2s -> 507.5s]  As vagas a que se refere o capote deste artigo deverão ser em número equivalente a 2% do total, garantida, no mínimo, uma vaga,
+[507.5s -> 515.3s]  devidamente sinalizada e com as especificações técnicas de desenho e traçado de acordo com as normas técnicas vigentes.
+[515.3s -> 520.1s]  Capítulo 3 Do desenho e da localização do mobiliário urbano
+[520.1s -> 522.9s]  Artigo 8 Os sinais de tráfego
+[522.9s -> 528.6s]  Semáforos, postes de iluminação ou quaisquer outros elementos verticais de sinalização
+[528.6s -> 534.6s]  que devão ser instalados em itinerário ou espaço de acesso para pedestres deverão ser dispostos,
+[534.6s -> 541.7s]  de forma não dificultar ou impedir a circulação e de modo que possam ser utilizados com a máxima comodidade.
+[541.7s -> 548.0s]  Artigo 9. Os semáforos para pedestres instalados nas vias públicas deverão estar equipados com
+[548.0s -> 554.7s]  mecanismo que emita sinal sonoro suave, intermitente e sem estridência, ou com mecanismo alternativo,
+[554.7s -> 560.4s]  que sirva de guia ou orientação para travessia de pessoas portadoras de deficiência visual.
+[560.4s -> 567.3s]  Se a intensidade do fluxo de veículos e a periculosidade da via sim determinarem. Parágrafo único.
+[567.3s -> 572.4s]  Os semáforos para pedestres instalados em vias públicas de grande circulação,
+[572.4s -> 575.3s]  ou que têm acesso aos serviços de reabilitação,
+[575.3s -> 582.3s]  devem obrigatoriamente estar equipados com mecanismo que emita sinal sonoro suave para a orientação do pedestre.
+[582.3s -> 585.9s]  Artigo 10. Os elementos do mobiliário urbano
+[585.9s -> 591.1s]  deverão ser projetados instalados em locais que permitam sejam eles utilizados
+[591.1s -> 595.4s]  pelas pessoas portadoras de deficiência ou com mobilidade reduzida.
+[595.4s -> 601.7s]  Artigo 10 A. A instalação de qualquer mobiliário urbano em área de circulação comum para
+[601.7s -> 606.8s]  pedestre que ofereça risco de acidente à pessoa com deficiência, deverá ser indicada
+[606.8s -> 613.2s]  mediante sinalização tátil de alerta no piso, de acordo com as normas técnicas pertinentes.
+[613.2s -> 619.3s]  Capítulo 4 Da acessibilidade nos edifícios públicos ou de uso coletivo
+[619.3s -> 627.1s]  Artigo 11. A construção, ampliação ou reforma de edifícios públicos ou privados destinados ao uso coletivo
+[627.1s -> 635.4s]  deverão ser executadas de modo que sejam ou se tornem acessíveis às pessoas portadoras de deficiência ou com mobilidade reduzida.
+[635.4s -> 647.1s]  Parágrafo único. Para os fins do disposto neste artigo na construção, ampliação ou reforma de edifícios públicos ou privados destinados a uso coletivo deverão ser observados.
+[647.1s -> 650.6s]  Pelo menos, os seguintes requisitos de acessibilidade.
+[650.6s -> 656.4s]  Inciso primeiro, nas áreas externas ou internas da edificação, destinadas à garagem e ao
+[656.4s -> 661.7s]  estacionamento de uso público, deverão ser reservadas vagas próximas dos acessos de
+[661.7s -> 668.1s]  circulação de pedestres, devidamente sinalizadas, para veículos que transportem pessoas portadoras
+[668.1s -> 671.7s]  de deficiência com dificuldade de locomoção permanente.
+[671.7s -> 676.8s]  Inciso segundo, pelo menos um dos acessos ao interior da edificação, deverá
+[676.8s -> 682.9s]  estar livre de barreiras arquitetônicas e de obstáculos que impeçam ou dificultem a acessibilidade
+[682.9s -> 687.1s]  de pessoa portadora de deficiência ou com mobilidade reduzida.
+[687.1s -> 693.0s]  Inciso 3. Pelo menos um dos itinerários que comuniquem horizontal e verticalmente todas
+[693.0s -> 698.9s]  as dependências e serviços do edifício, entre si e com o exterior, deverá cumprir os requisitos
+[698.9s -> 701.5s]  de acessibilidade de que trata esta lei.
+[701.5s -> 708.1s]  Em siso 4, os edifícios deverão dispor, pelo menos, de um banheiro acessível, distribuindo-se
+[708.1s -> 713.1s]  seus equipamentos e acessórios de maneira que possam ser utilizados por pessoa portadora
+[713.1s -> 716.2s]  de deficiência ou com mobilidade reduzida.
+[716.2s -> 722.6s]  Artigo 12, os locais de espetáculos, conferências, aulas e outros de natureza similar deverão
+[722.6s -> 727.9s]  dispor de espaços reservados para pessoas que utilizam cadeira de rodas e de lugares
+[727.9s -> 733.5s]  específicos para pessoas com deficiência auditiva e visual, inclusive acompanhante,
+[733.5s -> 739.8s]  de acordo com a BNT, de moda facilitar-lhes as condições de acesso, circulação e comunicação.
+[739.8s -> 746.8s]  Art. 12 A. Os centros comerciais e os estabelecimentos com gêneres devem fornecer carros e cadeiras
+[746.8s -> 752.4s]  de rodas, motorizados ou não, para o atendimento da pessoa com deficiência ou com mobilidade
+[752.4s -> 760.3s]  de reduzida, capítulo quinto, da acessibilidade nos edifícios de uso privado, art. 13. Os edifícios
+[760.3s -> 765.5s]  de uso privado em que seja obrigatório a instalação de elevadores deverão ser construídos
+[765.5s -> 769.5s]  atendendo aos seguintes requisitos mínimos de acessibilidade.
+[769.5s -> 775.7s]  Inciso 1. Percurso acessível que une as unidades habitacionais com o exterior e com as dependências
+[775.7s -> 780.5s]  de uso comum. Inciso 2. Percurso acessível que une a edificação
+[780.5s -> 786.9s]  a via pública, as edificações e aos serviços anexos de uso comum e aos edifícios vizinhos.
+[786.9s -> 793.3s]  Inciso 3. Cabine do elevador e respectiva porta de entrada acessíveis para pessoas portadoras
+[793.3s -> 799.9s]  de deficiência ou com mobilidade reduzida. Artigo 14. Os edifícios a serem construídos
+[799.9s -> 805.8s]  com mais de um pavimento além do pavimento de acesso, a exceção das habitações unifamiliares
+[805.8s -> 810.8s]  e que não estejam obrigados à instalação de elevador, deverão dispor de especificações
+[810.8s -> 816.3s]  técnicas e de projeto que facilitem a instalação de um elevador adaptado, devendo os demais
+[816.3s -> 821.7s]  elementos de uso comum destes edifícios a tender aos requisitos de acessibilidade.
+[821.7s -> 827.8s]  Artigo 15 Caberá o órgão federal responsável pela coordenação da política habitacional
+[827.8s -> 833.8s]  regulamentar a reserva de um percentual mínimo do total das habitações, conforme a característica
+[833.8s -> 839.0s]  da população local para o atendimento da demanda de pessoas portadoras de deficiência
+[839.0s -> 841.5s]  ou com mobilidade reduzida.
+[841.5s -> 842.5s]  CAPÍTULO 6.
+[842.5s -> 846.5s]  Dá acessibilidade nos veículos de transporte coletivo.
+[846.5s -> 847.7s]  Art. 16.
+[847.7s -> 852.5s]  Os veículos de transporte coletivo deverão cumprir os requisitos de acessibilidade
+[852.5s -> 855.9s]  estabelecidos nas normas técnicas específicas.
+[855.9s -> 857.6s]  CAPÍTULO 7.
+[857.6s -> 861.6s]  Dá acessibilidade nos sistemas de comunicação e sinalização.
+[861.6s -> 867.9s]  Artigo 17. O Poder Público promoverá a eliminação de barreiras na comunicação e estabelecerá
+[867.9s -> 874.4s]  mecanismos e alternativas técnicas, que tornam acessíveis os sistemas de comunicação e sinalização
+[874.4s -> 879.7s]  às pessoas portadoras de deficiência sensorial e com dificuldade de comunicação, para
+[879.7s -> 885.3s]  garantir-lhes o direito de acesso à informação, à comunicação, ao trabalho, à educação,
+[885.3s -> 892.0s]  ao transporte, à cultura, ao esporte e ao lazer, art. 18. O Poder Público implementará
+[892.0s -> 896.9s]  a formação de profissionais intérpretes de escrita em Braille, linguagem de sinais
+[896.9s -> 902.5s]  e de guias intérpretes, para facilitar qualquer tipo de comunicação direta a pessoa portadora
+[902.5s -> 906.1s]  de deficiência sensorial e com dificuldade de comunicação.
+[906.1s -> 912.3s]  Art. 19. Os serviços de rádio-difusão sonora e de sons e imagens adotarão plano
+[912.3s -> 918.7s]  de medidas técnicas com o objetivo de permitir o uso da linguagem de sinais ou outra subtitulação
+[918.7s -> 924.3s]  para garantir o direito de acesso à informação às pessoas portadoras de deficiência auditiva,
+[924.3s -> 928.1s]  na forma e no prazo previstos em regulamento.
+[928.1s -> 930.2s]  CAPÍTULO VIII.
+[930.2s -> 932.6s]  DISPOSIÇÕES SOBRE AJUDAS TECNICAS.
+[932.6s -> 933.6s]  Artigo 20.
+[933.6s -> 938.5s]  O poder público promoverá a supressão de barreiras urbanísticas, arquitetônicas,
+[938.5s -> 945.5s]  de Transporte e de Comunicação, Mediante Ajudas Técnicas, art. 21. O poder público por meio
+[945.5s -> 950.7s]  dos organismos de apoio à pesquisa e das agências de financiamento fomentará programas
+[950.7s -> 957.3s]  destinados. Inciso 1. A promoção de pesquisas científicas voltadas ao tratamento e prevenção
+[957.3s -> 963.8s]  de deficiências. Inciso 2. Ao desenvolvimento tecnológico orientado à produção de ajudas
+[963.8s -> 967.2s]  técnicas para as pessoas portadoras de deficiência.
+[967.2s -> 972.5s]  Inciso 3. A Especialização de Recursos Humanos em Acessibilidade
+[972.5s -> 976.4s]  Art. 21A As pessoas com deficiência visual
+[976.4s -> 981.9s]  será garantido, sem custo adicional, quando por ela solicitado, um kit que conterá no
+[981.9s -> 985.3s]  mínimo. Inciso 1. Etiqueta Embraile
+[985.3s -> 990.7s]  Filme transparente fixo ao cartão com informações em Braille, com a identificação do tipo
+[990.7s -> 994.3s]  do cartão e os 6 dígitos finais do número do cartão.
+[994.3s -> 995.7s]  Inciso 2.
+[995.7s -> 998.4s]  Identificação do tipo de cartão em Braille.
+[998.4s -> 1001.1s]  Primeiro dígito da esquerda para a direita.
+[1001.1s -> 1003.3s]  Identificador do tipo de cartão.
+[1003.3s -> 1004.7s]  Inciso 3.
+[1004.7s -> 1005.9s]  Fita adesiva.
+[1005.9s -> 1009.6s]  Fita para fixar a etiqueta em Braille de dados no cartão.
+[1009.6s -> 1010.8s]  Inciso 4.
+[1010.8s -> 1011.8s]  Porta cartão.
+[1011.8s -> 1017.3s]  Objeto para armazenar o cartão e possibilitar ao portador acesso as informações necessárias
+[1017.3s -> 1020.1s]  ao pleno uso do cartão com identificação.
+[1020.1s -> 1025.7s]  Embraile do número completo do cartão, do tipo de cartão, da bandeira, do nome do emissor,
+[1025.7s -> 1030.9s]  da data de validade, do código de segurança e do nome do portador do cartão.
+[1030.9s -> 1032.3s]  Parágrafo único.
+[1032.3s -> 1036.6s]  O porta-cartão de que trata o inciso quarto do cápute deste artigo,
+[1036.6s -> 1042.7s]  deverá possuir tamanho suficiente para que consteem todas as informações descritas no referido inciso
+[1042.7s -> 1047.2s]  e deverá ser conveniente ao transporte pela pessoa com deficiência visual.
+[1047.2s -> 1051.6s]  Capítulo 9 das medidas de fomento à eliminação de barreiras
+[1051.6s -> 1058.8s]  Artigo 22 é instituído no âmbito da Secretaria de Estado de Direitos Humanos do Ministério da Justiça,
+[1058.8s -> 1066.7s]  o Programa Nacional de Acessibilidade com dotação orçamentária específica cuja execução será disciplinada em regulamento
+[1066.7s -> 1069.7s]  Capítulo 10. Disposições finais.
+[1069.7s -> 1079.0s]  Artigo 23. A administração pública federal direta e indireta destinará anualmente dotação orçamentária para as adaptações,
+[1079.0s -> 1089.2s]  eliminações e supressões de barreiras arquitetônicas existentes nos edifícios de uso público de sua propriedade e naqueles que estejam sob sua administração ou uso.
+[1089.2s -> 1090.6s]  Parágrafo único.
+[1090.6s -> 1095.9s]  A implementação das adaptações, eliminações e supressões de barreiras arquitetônicas
+[1095.9s -> 1101.2s]  referidas no capo de deste artigo deverá ser iniciada a partir do primeiro ano de vigência
+[1101.2s -> 1102.2s]  desta lei.
+[1102.2s -> 1103.8s]  Artigo 24.
+[1103.8s -> 1109.1s]  O poder público promoverá campanhas informativas e educativas dirigidas à população em
+[1109.1s -> 1114.2s]  geral, com a finalidade de conscientizá-la e sensibilizá-la quanto a acessibilidade
+[1114.2s -> 1120.2s]  e a integração social da pessoa portadora de deficiência ou com mobilidade reduzida.
+[1120.2s -> 1124.3s]  Artigo 25 As disposições desta lei aplicam-se aos edifícios
+[1124.3s -> 1130.0s]  ou imóveis declarados bem de interesse cultural ou de valor histórico artístico, desde que
+[1130.0s -> 1136.1s]  as modificações necessárias observem as normas específicas reguladoras destes bens.
+[1136.1s -> 1140.0s]  Artigo 26 As organizações representativas de pessoas
+[1140.0s -> 1145.4s]  portadoras de deficiência. Terão legitimidade para acompanhar o cumprimento dos requisitos
+[1145.4s -> 1151.8s]  de acessibilidade estabelecidos nesta Lei. Artigo 27. Esta Lei entra em vigor na data
+[1151.8s -> 1153.0s]  de sua publicação.

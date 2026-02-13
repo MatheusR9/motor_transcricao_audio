@@ -1,0 +1,19 @@
+TRANSCRITOR DE ÁUDIO - BIBLIOTECA DO SENADO FEDERAL
+====================================================
+
+PASSO 1: Coloque seus arquivos de áudio (.mp3, .wav) na pasta "audios"
+
+PASSO 2: Dê DOIS CLIQUES no arquivo "TRANSCREVER_BDSF.bat"
+
+PASSO 3: Escolha uma opção:
+        - Pressione 1 para transcrever UM arquivo
+        - Pressione 2 para transcrever TODOS os arquivos
+
+PASSO 4: Aguarde a conclusão (pode demorar alguns minutos)
+
+PASSO 5: Abra a pasta "transcricoes" para ver os resultados
+
+OBSERVAÇÕES:
+- Não é necessário internet após a instalação inicial
+- Não é necessário conhecimento técnico
+- Funciona 100% offline e sem enviar dados para a internet

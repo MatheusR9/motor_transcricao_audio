@@ -1,0 +1,116 @@
+GUIA DE INSTALAÇÃO DO AMBIENTE VIRTUAL
+Biblioteca do Senado Federal - BDSF
+============================================================
+
+Este guia orienta a configuração manual do ambiente Python
+para uso da ferramenta de transcrição de áudio.
+
+PASSO 1: Verificar se Python está instalado
+--------------------------------------------
+
+1. Pressione Windows + R
+2. Digite: cmd
+3. Pressione Enter
+
+4. No Prompt de Comando, digite:
+   python --version
+
+5. Resultados possíveis:
+   ✅ Se aparecer "Python 3.10.x" ou superior → PULE para o Passo 2
+   ❌ Se der erro "python não é reconhecido" → Instale Python:
+
+      a) Acesse: https://www.python.org/downloads/release/python-31011/
+      b) Baixe: "Windows installer (64-bit)"
+      c) Execute o instalador
+      d) ✅ MARQUE A OPÇÃO: "Add Python 3.10 to PATH" (IMPORTANTE!)
+      e) Clique em "Install Now"
+      f) Após instalar, feche e reabra o Prompt de Comando
+      g) Repita o comando: python --version (deve funcionar agora)
+
+PASSO 2: Criar a pasta do projeto em D:\
+-----------------------------------------
+
+No Prompt de Comando, execute ESTES COMANDOS UM POR UM:
+
+mkdir D:\motor_transcricao_audio
+mkdir D:\motor_transcricao_audio\audios
+mkdir D:\motor_transcricao_audio\transcricoes
+
+PASSO 3: Criar o ambiente virtual (venv)
+-----------------------------------------
+
+No mesmo Prompt de Comando, execute:
+
+cd D:\motor_transcricao_audio
+python -m venv venv
+
+✅ Aguarde ~30 segundos. Não deve aparecer erro.
+
+PASSO 4: Instalar as dependências
+----------------------------------
+
+Ainda no Prompt de Comando, execute:
+
+venv\Scripts\pip install --upgrade pip
+venv\Scripts\pip install faster-whisper torch --no-cache-dir
+
+✅ Aguarde ~5-10 minutos (download de ~500 MB - requer internet)
+✅ Ignore mensagens amarelas de aviso (warnings) - são normais
+
+PASSO 5: Verificar a instalação
+--------------------------------
+
+Execute este comando para testar:
+
+venv\Scripts\python -c "from faster_whisper import WhisperModel; print('✅ Ambiente configurado com sucesso!')"
+
+✅ Resultado esperado: "✅ Ambiente configurado com sucesso!"
+❌ Se der erro: repita o Passo 4 ou contate a Biblioteca Digital
+
+PASSO 6: Receber e usar a pasta da ferramenta
+----------------------------------------------
+
+1. Após concluir os passos acima, você já tem:
+   D:\motor_transcricao_audio\venv\   ← Ambiente virtual configurado
+
+2. Receba os arquivos complementares (sem a pasta venv):
+   - TRANSCREVER_BDSF.bat
+   - transcrever.py
+   - transcrever_todos.py
+   - LEIA-ME_BDSF.txt
+
+3. Cole ESTES ARQUIVOS diretamente em:
+   D:\motor_transcricao_audio\
+
+   Estrutura final:
+   D:\motor_transcricao_audio\
+   ├── venv\                ← Você criou nos passos acima
+   ├── audios\              ← Criada no Passo 2
+   ├── transcricoes\        ← Criada no Passo 2
+   ├── TRANSCREVER_BDSF.bat ← Recebido da BDSF
+   ├── transcrever.py       ← Recebido da BDSF
+   └── transcrever_todos.py ← Recebido da BDSF
+
+4. Para usar:
+   - Clique duas vezes em TRANSCREVER_BDSF.bat
+   - Funciona 100% OFFLINE após esta instalação
+   - NÃO requer administrador para uso diário
+
+============================================================
+RESUMO DOS COMANDOS (copie e cole todos de uma vez no CMD):
+============================================================
+
+mkdir D:\motor_transcricao_audio
+mkdir D:\motor_transcricao_audio\audios
+mkdir D:\motor_transcricao_audio\transcricoes
+cd D:\motor_transcricao_audio
+python -m venv venv
+venv\Scripts\pip install --upgrade pip
+venv\Scripts\pip install faster-whisper torch --no-cache-dir
+venv\Scripts\python -c "from faster_whisper import WhisperModel; print('✅ OK')"
+
+============================================================
+SUPORTE:
+Biblioteca Digital do Senado Federal
+Ramal interno: XXXX
+============================================================
